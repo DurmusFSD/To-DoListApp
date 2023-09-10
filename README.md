@@ -1,7 +1,7 @@
 # To-DoListApp
 HTML-CSS-JAVASCRİPT
 
-WeatherApp
+# To-DoListApp
 🚀 Yeni Proje Lansmanı: Yapılacaklar listesi uygulaması!
 💻 Bugün sizlerle heyecan verici bir projeyi paylaşmak istiyorum. HTML, CSS, JavaScript kullanarak geliştirdiğim "Yapılacaklar listesi" uygulamasını tamamladım!
 🌐🔍 Bu projenin amacı, Birden fazla yapmak istediginiz iş, aktivite, spor vb şeyleri listeleyerek yapmanızı kolaylaştırır.
